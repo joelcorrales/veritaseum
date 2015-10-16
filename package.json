@@ -1,0 +1,22 @@
+{
+  "name": "veritaseum",
+  "version": "1.0.0",
+  "author": "Joel Corrales",
+  "email": "joel.corrales@outlook.com",
+  "description": "Interview Challenge Veritaseum ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelcorrales/veritaseum.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.8.5",
+    "istanbul": "^0.3.22",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-coverage": "^0.5.2",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.18"
+  }
+}
